@@ -1,3 +1,5 @@
+# Twitter Clone made by Jordan Quan following Clever Programmer's tutorial.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
